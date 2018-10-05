@@ -87,12 +87,16 @@ It's going to be a fun decade - I hope my generation can create something as eng
  
 PART 2 - Proof of Concept - The Observers
 
-(Oct 2018)
+https://dreamtolearn.com/internal/doc-asset/EJ3GFL3OYKWZQ3CNB03JSD911/IMG_9517.jpg
 
 If we imagine an experiment
 
     Three Different "Character Types" created from (1b) bootstrap from real person or blend of people (e.g. JFK plus Ronald Reagan; or (1a) Character Template archetype)
+    
     The CHARACTERS (2) can be thought of as "Observing Bots" - the watchers .  No chat, no dialog required. but they do Watch.  have emotional states (3) that are impacted by the Data/Traffic/Chatter/Context of Situation (4) - and differing REACTIONS (8) on how they see the world. different lenses
+    
     OBSERVABLE world - the data - could be call center traffic, twitter streams, a twich channel in esports, unstructured observable data that is sliced along time domain (6) and analyzed (7) using standard and/or custom tools like NLC NLU NLP Tone extraction, and/or ML/DL filters 
+    
     INTERPRETER considers information in front from (7) along with Character Type (2) ; Emotional State at a moment in time (3) (e.g. is the Character already upset or angry?; and (4) Context - e.g. is it appropriate to use profanity workplace (no) ; or with friends at pub (perhaps yes);
+    
     SYSTEM SUM of signals - will result in some feedback on Emotional State (3) and MIGHT result - near term in simply setting a flag; if a TRIGGER (10) is reached
