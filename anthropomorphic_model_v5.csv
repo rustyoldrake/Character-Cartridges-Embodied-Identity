@@ -1,0 +1,251 @@
+﻿index,type,trait,subtrait_or_group,description,source
+1,identity,name,first last nickname,name of the human or digital human,declared
+2,identity,embodiment type,embodiment type,"primary type (human, assistant, proxy)",declared
+3,identity,age,age,age of human or digital,declared
+4,identity,unique identifier,unique identifier,"index, id number, avatar id",declared
+5,identity,citizenship,citizenship,if national affiliation ,declared
+6,identity,pedigree,"pedigree, parentage on model",quality and confidency in authenticity,measured
+7,identity,agency_authorization,agency_authorization,allowance for permissions and action,declared
+8,identity,organization,organization,"members of companies, orgs, groups",declared
+9,identity,purpose,purpose,stated or designed purpose for existance,declared
+10,identity,ethical_guides,ethical_guides,overarching rules of existance,declared
+11,identity,history,history,over time the journey meta milestones,measured
+12,identity,economic,social - economic,socio economic rough classification,declared
+13,identity,world view,social - world view,mental model for economics and democracy,declared
+14,identity,skills,education - skills,"skills and capabilities; foundation, ",measured
+15,identity,expertise,professional - expertise,subject matter expertise,measured
+16,identity,emotional intelligence,ei eq,"ei - CEO, child, new cognitive agent",multiple
+17,session,focus,focus,what or who is in focus ; mind's eyes,multiple
+18,session,location,location,"where it is, where it has been actual and virtual",measured
+19,session,state_of_being,state_of_being,"awake, active, suspended, learning, curious, playful",multiple
+20,session,session type,session type,moment in time context for interaction,measured
+21,session,arousal ,arousal ,arousal - entities interest/excitement in topic or situation,declared
+22,session,formality,TBD,degree of casual vs professionalism,declared
+23,session,power_distance,TBD,relatieve to N parties - Hofstede ,declared
+24,session,observe vs assert,observe vs assert,listen or lead mode,multiple
+25,session,intimacy,intimacy,level of intimacy familiaity with counterparty,multiple
+26,session,ego state,"normal, angry, upset, anxious","drives confidence, risk and voice of human",multiple
+27,personality,agreeableness,personality_insights_big5_agreeableness_RAW,big5_agreeableness,watson_api_personality_insights
+28,personality,altruism,personality_insights_big5_agreeableness_FACET,facet_altruism,watson_api_personality_insights
+29,personality,cooperation,personality_insights_big5_agreeableness_FACET,facet_cooperation,watson_api_personality_insights
+30,personality,modesty,personality_insights_big5_agreeableness_FACET,facet_modesty,watson_api_personality_insights
+31,personality,morality,personality_insights_big5_agreeableness_FACET,facet_morality,watson_api_personality_insights
+32,personality,sympathy,personality_insights_big5_agreeableness_FACET,facet_sympathy,watson_api_personality_insights
+33,personality,trust,personality_insights_big5_agreeableness_FACET,facet_trust,watson_api_personality_insights
+34,personality,conscientiousness,personality_insights_big5_conscientiousness_RAW,big5_conscientiousness,watson_api_personality_insights
+35,personality,achievement_striving,personality_insights_big5_conscientiousness_FACET,facet_achievement_striving,watson_api_personality_insights
+36,personality,cautiousness,personality_insights_big5_conscientiousness_FACET,facet_cautiousness,watson_api_personality_insights
+37,personality,dutifulness,personality_insights_big5_conscientiousness_FACET,facet_dutifulness,watson_api_personality_insights
+38,personality,orderliness,personality_insights_big5_conscientiousness_FACET,facet_orderliness,watson_api_personality_insights
+39,personality,self_discipline,personality_insights_big5_conscientiousness_FACET,facet_self_discipline,watson_api_personality_insights
+40,personality,self_efficacy,personality_insights_big5_conscientiousness_FACET,facet_self_efficacy,watson_api_personality_insights
+41,personality,extraversion,personality_insights_big5_extraversion_RAW,big5_extraversion,watson_api_personality_insights
+42,personality,activity_level,personality_insights_big5_extraversion_FACET,facet_activity_level,watson_api_personality_insights
+43,personality,assertiveness,personality_insights_big5_extraversion_FACET,facet_assertiveness,watson_api_personality_insights
+44,personality,cheerfulness,personality_insights_big5_extraversion_FACET,facet_cheerfulness,watson_api_personality_insights
+45,personality,excitement_seeking,personality_insights_big5_extraversion_FACET,facet_excitement_seeking,watson_api_personality_insights
+46,personality,friendliness,personality_insights_big5_extraversion_FACET,facet_friendliness,watson_api_personality_insights
+47,personality,gregariousness,personality_insights_big5_extraversion_FACET,facet_gregariousness,watson_api_personality_insights
+48,personality,neuroticism,personality_insights_big5_neuroticism_RAW,big5_neuroticism,watson_api_personality_insights
+49,personality,anger,personality_insights_big5_neuroticism_FACET,facet_anger,watson_api_personality_insights
+50,personality,anxiety,personality_insights_big5_neuroticism_FACET,facet_anxiety,watson_api_personality_insights
+51,personality,depression,personality_insights_big5_neuroticism_FACET,facet_depression,watson_api_personality_insights
+52,personality,immoderation,personality_insights_big5_neuroticism_FACET,facet_immoderation,watson_api_personality_insights
+53,personality,self_consciousness,personality_insights_big5_neuroticism_FACET,facet_self_consciousness,watson_api_personality_insights
+54,personality,vulnerability,personality_insights_big5_neuroticism_FACET,facet_vulnerability,watson_api_personality_insights
+55,personality,openness,personality_insights_big5_openness_RAW,big5_openness,watson_api_personality_insights
+56,personality,adventurousness,personality_insights_big5_openness_FACET,facet_adventurousness,watson_api_personality_insights
+57,personality,artistic_interests,personality_insights_big5_openness_FACET,facet_artistic_interests,watson_api_personality_insights
+58,personality,emotionality,personality_insights_big5_openness_FACET,facet_emotionality,watson_api_personality_insights
+59,personality,imagination,personality_insights_big5_openness_FACET,facet_imagination,watson_api_personality_insights
+60,personality,intellect,personality_insights_big5_openness_FACET,facet_intellect,watson_api_personality_insights
+61,personality,liberalism,personality_insights_big5_openness_FACET,facet_liberalism,watson_api_personality_insights
+62,personality,liberty,personality_insights_NEEDS,need_liberty,watson_api_personality_insights
+63,personality,ideal,personality_insights_NEEDS,need_ideal,watson_api_personality_insights
+64,personality,love,personality_insights_NEEDS,need_love,watson_api_personality_insights
+65,personality,practicality,personality_insights_NEEDS,need_practicality,watson_api_personality_insights
+66,personality,self_expression,personality_insights_NEEDS,need_self_expression,watson_api_personality_insights
+67,personality,stability,personality_insights_NEEDS,need_stability,watson_api_personality_insights
+68,personality,structure,personality_insights_NEEDS,need_structure,watson_api_personality_insights
+69,personality,challenge,personality_insights_NEEDS,need_challenge,watson_api_personality_insights
+70,personality,closeness,personality_insights_NEEDS,need_closeness,watson_api_personality_insights
+71,personality,curiosity,personality_insights_NEEDS,need_curiosity,watson_api_personality_insights
+72,personality,excitement,personality_insights_NEEDS,need_excitement,watson_api_personality_insights
+73,personality,harmony,personality_insights_NEEDS,need_harmony,watson_api_personality_insights
+74,personality,conservation,personality_insights_VALUES,value_conservation,watson_api_personality_insights
+75,personality,hedonism,personality_insights_VALUES,value_hedonism,watson_api_personality_insights
+76,personality,openness_to_change,personality_insights_VALUES,value_openness_to_change,watson_api_personality_insights
+77,personality,self_enhancement,personality_insights_VALUES,value_self_enhancement,watson_api_personality_insights
+78,personality,self_transcendence,personality_insights_VALUES,value_self_transcendence,watson_api_personality_insights
+79,personality,automobile_ownership_cost ,consumption_preferences_shopping,Likely to be sensitive to ownership cost when buying automobiles ,watson_api_personality_insights_consumption_preferences
+80,personality,automobile_safety ,consumption_preferences_shopping,Likely to prefer safety when buying automobiles ,watson_api_personality_insights_consumption_preferences
+81,personality,books_autobiographies ,consumption_preferences_reading,Likely to read autobiographical books ,watson_api_personality_insights_consumption_preferences
+82,personality,books_entertainment_magazines ,consumption_preferences_reading,Likely to read entertainment magazines ,watson_api_personality_insights_consumption_preferences
+83,personality,books_financial_investing ,consumption_preferences_reading,Likely to read financial investment books ,watson_api_personality_insights_consumption_preferences
+84,personality,books_non_fiction ,consumption_preferences_reading,Likely to read non-fiction books ,watson_api_personality_insights_consumption_preferences
+85,personality,clothes_comfort ,consumption_preferences_shopping,Likely to prefer comfort when buying clothes ,watson_api_personality_insights_consumption_preferences
+86,personality,clothes_quality ,consumption_preferences_shopping,Likely to prefer quality when buying clothes ,watson_api_personality_insights_consumption_preferences
+87,personality,clothes_style ,consumption_preferences_shopping,Likely to prefer style when buying clothes ,watson_api_personality_insights_consumption_preferences
+88,personality,concerned_environment ,consumption_preferences_concerned_environment,Likely to be concerned about the environment ,watson_api_personality_insights_consumption_preferences
+89,personality,credit_card_payment ,consumption_preferences_shopping,Likely to prefer using credit cards for shopping ,watson_api_personality_insights_consumption_preferences
+90,personality,eat_out ,consumption_preferences_health_and_activity,Likely to eat out frequently ,watson_api_personality_insights_consumption_preferences
+91,personality,gym_membership ,consumption_preferences_health_and_activity,Likely to have a gym membership ,watson_api_personality_insights_consumption_preferences
+92,personality,influence_brand_name ,consumption_preferences_shopping,Likely to be influenced by brand name when making product purchases ,watson_api_personality_insights_consumption_preferences
+93,personality,influence_family_members ,consumption_preferences_shopping,Likely to be influenced by family when making product purchases ,watson_api_personality_insights_consumption_preferences
+94,personality,influence_online_ads ,consumption_preferences_shopping,Likely to be influenced by online ads when making product purchases ,watson_api_personality_insights_consumption_preferences
+95,personality,influence_social_media ,consumption_preferences_shopping,Likely to be influenced by social media when making product purchases ,watson_api_personality_insights_consumption_preferences
+96,personality,influence_utility ,consumption_preferences_shopping,Likely to be influenced by product utility when making product purchases ,watson_api_personality_insights_consumption_preferences
+97,personality,movie_action ,consumption_preferences_movie,Likely to like action movies ,watson_api_personality_insights_consumption_preferences
+98,personality,movie_adventure ,consumption_preferences_movie,Likely to like adventure movies ,watson_api_personality_insights_consumption_preferences
+99,personality,movie_documentary ,consumption_preferences_movie,Likely to like documentary movies ,watson_api_personality_insights_consumption_preferences
+100,personality,movie_drama ,consumption_preferences_movie,Likely to like drama movies ,watson_api_personality_insights_consumption_preferences
+101,personality,movie_historical ,consumption_preferences_movie,Likely to like historical movies ,watson_api_personality_insights_consumption_preferences
+102,personality,movie_horror ,consumption_preferences_movie,Likely to like horror movies ,watson_api_personality_insights_consumption_preferences
+103,personality,movie_musical ,consumption_preferences_movie,Likely to like musical movies ,watson_api_personality_insights_consumption_preferences
+104,personality,movie_romance ,consumption_preferences_movie,Likely to like romance movies ,watson_api_personality_insights_consumption_preferences
+105,personality,movie_science_fiction ,consumption_preferences_movie,Likely to like science-fiction movies ,watson_api_personality_insights_consumption_preferences
+106,personality,movie_war ,consumption_preferences_movie,Likely to like war movies ,watson_api_personality_insights_consumption_preferences
+107,personality,music_classical ,consumption_preferences_music,Likely to like classical music ,watson_api_personality_insights_consumption_preferences
+108,personality,music_country ,consumption_preferences_music,Likely to like country music ,watson_api_personality_insights_consumption_preferences
+109,personality,music_hip_hop ,consumption_preferences_music,Likely to like hip hop music ,watson_api_personality_insights_consumption_preferences
+110,personality,music_latin ,consumption_preferences_music,Likely to like Latin music ,watson_api_personality_insights_consumption_preferences
+111,personality,music_live_event ,consumption_preferences_music,Likely to attend live musical events ,watson_api_personality_insights_consumption_preferences
+112,personality,music_playing ,consumption_preferences_music,Likely to have experience playing music ,watson_api_personality_insights_consumption_preferences
+113,personality,music_r_b ,consumption_preferences_music,Likely to like R&B music ,watson_api_personality_insights_consumption_preferences
+114,personality,music_rap ,consumption_preferences_music,Likely to like rap music ,watson_api_personality_insights_consumption_preferences
+115,personality,music_rock ,consumption_preferences_music,Likely to like rock music ,watson_api_personality_insights_consumption_preferences
+116,personality,outdoor ,consumption_preferences_health_and_activity,Likely to like outdoor activities ,watson_api_personality_insights_consumption_preferences
+117,personality,read_frequency ,consumption_preferences_reading,Likely to read often ,watson_api_personality_insights_consumption_preferences
+118,personality,spur_of_moment ,consumption_preferences_shopping,Likely to indulge in spur of the moment purchases ,watson_api_personality_insights_consumption_preferences
+119,personality,start_business ,consumption_preferences_entrepreneurship,Likely to consider starting a business in next few years ,watson_api_personality_insights_consumption_preferences
+120,personality,volunteer ,consumption_preferences_volunteer,Likely to volunteer for social causes ,watson_api_personality_insights_consumption_preferences
+121,utterance,anger,tone_emotion,anger,watson_api_tone_analyzer
+122,utterance,disgust,tone_emotion,disgust,watson_api_tone_analyzer
+123,utterance,fear,tone_emotion,fear,watson_api_tone_analyzer
+124,utterance,joy,tone_emotion,joy,watson_api_tone_analyzer
+125,utterance,sadness,tone_emotion,sadness,watson_api_tone_analyzer
+126,utterance,analytical,tone_language,analytical,watson_api_tone_analyzer
+127,utterance,confident,tone_language,confident,watson_api_tone_analyzer
+128,utterance,tentative,tone_language,tentative,watson_api_tone_analyzer
+129,utterance,extraversion,tone_social_big5,extraversion,watson_api_tone_analyzer
+130,utterance,agreeableness,tone_social_big5,agreeableness,watson_api_tone_analyzer
+131,utterance,emotional_range,tone_social_big5,emotional_range,watson_api_tone_analyzer
+132,utterance,sad,tone_chat,sad,watson_api_tone_analyzer_chat
+133,utterance,frustrated,tone_chat,frustrated,watson_api_tone_analyzer_chat
+134,utterance,satisfied,tone_chat,satisfied,watson_api_tone_analyzer_chat
+135,utterance,excited,tone_chat,excited,watson_api_tone_analyzer_chat
+136,utterance,polite,tone_chat,polite,watson_api_tone_analyzer_chat
+137,utterance,impolite,tone_chat,impolite,watson_api_tone_analyzer_chat
+138,utterance,sympathetic,tone_chat,sympathetic,watson_api_tone_analyzer_chat
+139,personal_interests,concepts_of_interest,concepts,STRING_concepts_multiple,watson_api_natural_language_understanding
+140,personal_interests,categories_of_interest,categories,STRING_categories_multiple,watson_api_natural_language_understanding
+141,personal_interests,entities_of_interest,entities,STRING_entities_multiple,watson_api_natural_language_understanding
+142,personal_interests,keywords_of_interest,keywords,STRING_keywords_multiple,watson_api_natural_language_understanding
+143,utterance,sentiment,nlu_sentiment,utterance_sentiment,watson_api_natural_language_understanding
+144,utterance,sadness,nlu_emotion,utterance_sadness,watson_api_natural_language_understanding
+145,utterance,joy,nlu_emotion,utterance_joy,watson_api_natural_language_understanding
+146,utterance,fear,nlu_emotion,utterance_fear,watson_api_natural_language_understanding
+147,utterance,disgust,nlu_emotion,utterance_disgust,watson_api_natural_language_understanding
+148,utterance,anger,nlu_emotion,utterance_anger,watson_api_natural_language_understanding
+149,vocal_projection,pitch ,pitch ,voice_pitch,watson_api_text_to_speech
+150,vocal_projection,pitch_range,pitch_range,voice_pitch_range,watson_api_text_to_speech
+151,vocal_projection,glottal_tension,glottal_tension,voice_glottal_tension,watson_api_text_to_speech
+152,vocal_projection,breathiness,breathiness,voice_breathiness,watson_api_text_to_speech
+153,vocal_projection,rate_of_speech,rate_of_speech,voice_rate_of_speech,watson_api_text_to_speech
+154,vocal_projection,timbre,timbre_of_voice,voice_timbre,watson_api_text_to_speech
+155,utterance,profanity,profanity,use of foul language,watson_api_natural_language_classifier_gt1
+156,utterance,question_structured,question_structured,how much how many when,watson_api_natural_language_classifier_gt1
+157,utterance,question_unstructured,question_unstructured,why how ,watson_api_natural_language_classifier_gt1
+158,utterance,SQL_shape,question_structured_SQL_shape_react,if structured shape of sql,watson_api_natural_language_classifier_gt1
+159,utterance,joke request,joke request,joke request,watson_api_natural_language_classifier_gt1
+160,utterance,system command,system command,system command,watson_api_natural_language_classifier_gt1
+161,utterance,model status request,model status request,model status request,watson_api_natural_language_classifier_gt1
+162,personality_archetype,The Innocent,jungian_archetype_ego_order,"optimist, utopian, honest, reliable",jungian_archetype_mapped
+163,personality_archetype,The Hero,jungian_archetype_ego_ego,"warrior, rescuer, crusader, athlete",jungian_archetype_mapped
+164,personality_archetype,The Citizen,jungian_archetype_ego_social,"everyman, regular-guy, servant",jungian_archetype_mapped
+165,personality_archetype,The Nurturer,jungian_archetype_ego_social,"healer, angel, caregiver, altruist, helper",jungian_archetype_mapped
+166,personality_archetype,The Creator,jungian_archetype_soul_ego,"artist, entrepreneur, visionary, storyteller",jungian_archetype_mapped
+167,personality_archetype,The Explorer,jungian_archetype_soul_freedom,"adventurer, pioneer, seeker",jungian_archetype_mapped
+168,personality_archetype,The Rebel,jungian_archetype_soul_freedom,"outlaw, activist, maverick, reformer, gambler",jungian_archetype_mapped
+169,personality_archetype,The Lover,jungian_archetype_soul_social,"hedonist, matchmaker, companion",jungian_archetype_mapped
+170,personality_archetype,The Magician,jungian_archetype_self_ego,"engineer, shaman, scientist",jungian_archetype_mapped
+171,personality_archetype,The Ruler,jungian_archetype_self_order,"boss, patriarch, judge, ambassador",jungian_archetype_mapped
+172,personality_archetype,The Jester,jungian_archetype_self_freedom,"trickster, entertainer, clown",jungian_archetype_mapped
+173,personality_archetype,The Sage,jungian_archetype_self_order,"mentor, scholar, shaman, thinker",jungian_archetype_mapped
+174,personality_archetype,Dominant,DISC_model,"Direct, Driver, Demanding, Determined, Decisive, Doer",DISC_model
+175,personality_archetype,Influential,DISC_model,"Inspiring, Impressive, Interacting, Interesting",DISC_model
+176,personality_archetype,Steady,DISC_model,"Submissive, Stable, Supportive, Shy, Status quo",DISC_model
+177,personality_archetype,Conscientious,DISC_model,"Cautious, Compliant, Calculating, Contemplative",DISC_model
+178,personality_type_mb,Introvert,Myers_Briggs_Trait,Introvert,Myers_Briggs_Trait
+179,personality_type_mb,Extrovert,Myers_Briggs_Trait,Extrovert,Myers_Briggs_Trait
+180,personality_type_mb,Sensor,Myers_Briggs_Trait,Sensor,Myers_Briggs_Trait
+181,personality_type_mb,Intuitive,Myers_Briggs_Trait,Intuitive,Myers_Briggs_Trait
+182,personality_type_mb,Thinker,Myers_Briggs_Trait,Thinker,Myers_Briggs_Trait
+183,personality_type_mb,Feeler,Myers_Briggs_Trait,Feeler,Myers_Briggs_Trait
+184,personality_type_mb,Judger,Myers_Briggs_Trait,Judger,Myers_Briggs_Trait
+185,personality_type_mb,Perceiver,Myers_Briggs_Trait,Perceiver,Myers_Briggs_Trait
+186,personality_type_mb,Guardian Supervisor,Myers_Briggs_Keirsey_Type,"    ESTJ - ""The Supervisors""",Myers_Briggs_Keirsey_Type
+187,personality_type_mb,Guardian Inspector,Myers_Briggs_Keirsey_Type,"    ISTJ - ""The Inspectors""",Myers_Briggs_Keirsey_Type
+188,personality_type_mb,Guardian Provider,Myers_Briggs_Keirsey_Type,"    ESFJ - ""The Providers""",Myers_Briggs_Keirsey_Type
+189,personality_type_mb,Guardian Protector,Myers_Briggs_Keirsey_Type,"    ISFJ - ""The Protectors"" ",Myers_Briggs_Keirsey_Type
+190,personality_type_mb,Artisan Promoter,Myers_Briggs_Keirsey_Type,"    ESTP - ""The Promoters""",Myers_Briggs_Keirsey_Type
+191,personality_type_mb,Artisan Crafter,Myers_Briggs_Keirsey_Type,"    ISTP - ""The Crafters""",Myers_Briggs_Keirsey_Type
+192,personality_type_mb,Artisan Performer,Myers_Briggs_Keirsey_Type,"    ESFP - ""The Performers""",Myers_Briggs_Keirsey_Type
+193,personality_type_mb,Artisan Composer,Myers_Briggs_Keirsey_Type,"    ISFP - ""The Composers"" ",Myers_Briggs_Keirsey_Type
+194,personality_type_mb,Rational - Fieldmarshal,Myers_Briggs_Keirsey_Type,"    ENTJ - ""The Fieldmarshals""",Myers_Briggs_Keirsey_Type
+195,personality_type_mb,Rational - Mastermind,Myers_Briggs_Keirsey_Type,"    INTJ - ""The Masterminds""",Myers_Briggs_Keirsey_Type
+196,personality_type_mb,Rational - Inventor,Myers_Briggs_Keirsey_Type,"    ENTP - ""The Inventors""",Myers_Briggs_Keirsey_Type
+197,personality_type_mb,Rational - Architect,Myers_Briggs_Keirsey_Type,"    INTP - ""The Architects"" ",Myers_Briggs_Keirsey_Type
+198,personality_type_mb,Idealist - Teacher,Myers_Briggs_Keirsey_Type,"    ENFJ - ""The Teachers""",Myers_Briggs_Keirsey_Type
+199,personality_type_mb,Idealist - Councelor,Myers_Briggs_Keirsey_Type,"    INFJ - ""The Counselors""",Myers_Briggs_Keirsey_Type
+200,personality_type_mb,Idealist - Champion,Myers_Briggs_Keirsey_Type,"    ENFP - ""The Champions""",Myers_Briggs_Keirsey_Type
+201,personality_type_mb,Idealist - Healer,Myers_Briggs_Keirsey_Type,"    INFP - ""The Healers"" ",Myers_Briggs_Keirsey_Type
+202,personality_type_debono,Facts - Neutral and Objective,Six_Thinking_Hats_Debono,White Hat,Six_Thinking_Hats_Debono
+203,personality_type_debono,Emotion - Intuitive and Feeling,Six_Thinking_Hats_Debono,Red Hat,Six_Thinking_Hats_Debono
+204,personality_type_debono,Positive - Hopeful and Optimistic,Six_Thinking_Hats_Debono,Yellow Hat,Six_Thinking_Hats_Debono
+205,personality_type_debono,Ideas - Creative and Growth,Six_Thinking_Hats_Debono,Green Hat,Six_Thinking_Hats_Debono
+206,personality_type_debono,Planning - Organized & Control,Six_Thinking_Hats_Debono,Blue Hat,Six_Thinking_Hats_Debono
+207,personality_type_debono,Judgement - Critical & Cautious ,Six_Thinking_Hats_Debono,Black Hat,Six_Thinking_Hats_Debono
+208,personality_type_gladwell,Maven,Tipping_Point_Gladwell,Maven,Tipping_Point_Gladwell
+209,personality_type_gladwell,Connector,Tipping_Point_Gladwell,Connector,Tipping_Point_Gladwell
+210,personality_type_gladwell,Salesman,Tipping_Point_Gladwell,Salesman,Tipping_Point_Gladwell
+211,,,,,
+212,,,,,
+213,,,,,
+214,,,,,
+215,,,,,
+216,,,,,
+217,,,,,
+218,,,,,
+219,,,,,
+220,,,,,
+221,,,,,
+222,,,,,
+223,,,,,
+224,,,,,
+225,,,,,
+226,,,,,
+227,,,,,
+228,,,,,
+229,,,,,
+230,,,,,
+231,,,,,
+232,,,,,
+233,,,,,
+234,,,,,
+235,,,,,
+236,,,,,
+237,,,,,
+238,,,,,
+239,,,,,
+240,,,,,
+241,,,,,
+242,,,,,
+243,,,,,
+244,,,,,
+245,,,,,
+246,,,,,
+247,,,,,
+248,,,,,
+249,,,,,
+250,,,,,
