@@ -31,6 +31,9 @@ With readily available technology - can build alpha versions of these systems to
 
 A key component for the creation of Digital Humans (for applications extending well beyond gaming) is a sense of identity and character.   Empathetic systems that embody cognitive elements need personality.   The best rendered face and eyes, is still just a collection of high resolution pixels – until we add voice, emotion, identity and soul.
 
+ ## Jake and Ryan and Pad Thai 
+ https://drive.google.com/file/d/0B3WOmvm7uBq-RXZ1dlRYZWg5cmM/view
+ in this vidoe - a dozen humanoids are platonic representations of data / people - they march out and can be interrogated by voice
  
 
 Key embodiments of intelligence
