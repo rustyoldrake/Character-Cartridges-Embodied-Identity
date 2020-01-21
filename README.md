@@ -2,6 +2,20 @@
 POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and synthetic identity
 
 
+# New links
+
+Prototype - Cartridges for Personality
+https://drive.google.com/open?id=1fhQMKUT-NH52kjPctRO0ZeSbR8H_ZoIj
+
+Pad Thai Data driven avatars
+ https://drive.google.com/file/d/0B3WOmvm7uBq-RXZ1dlRYZWg5cmM/view
+
+Bubbleman Avatar
+https://youtu.be/fOfFrGsNwHo
+
+
+# Old Summary 2019
+
 https://dreamtolearn.com/ryan/cognitivewingman/18/en
 
 Character Cartridges - Embodied Identity
