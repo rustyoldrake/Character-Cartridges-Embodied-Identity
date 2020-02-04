@@ -4,6 +4,10 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 
 # New links
 
+Jake Test Video - Feb 4 2020
+A short demo of some concepts to discuss in call 
+https://drive.google.com/open?id=13J85ERDewAGbgYWj1rneY7uiung7H61D
+
 Prototype - Cartridges for Personality
 https://drive.google.com/open?id=1fhQMKUT-NH52kjPctRO0ZeSbR8H_ZoIj
 
