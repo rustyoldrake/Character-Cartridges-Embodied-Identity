@@ -20,6 +20,20 @@ Pad Thai Data driven avatars
 Bubbleman Avatar
 https://youtu.be/fOfFrGsNwHo
 
+# Story
+
+•	STORY
+o	User walks into room.  Observes sign (on green skirt of table?) “AVATAR ANIMATION STUDIO” (Smaller font… 
+	1 Choose Avatar 
+	2 Select Character Cartridges
+	3 Push Animation lever”
+1 User Chooses Avatar – user presses a button or points a switch/asset to the male/female avatar – when the button/switch is turned (maybe from a third neutral position) – there is some visual indication of selection (glow? Light?)
+2 User selects Color cartridges to put in toasters (much later, could consider speech to text to summon/surface or highlight most relevant cartridges for ABC personality / attribute family)
+3 – User Pushes Animation Lever, light show, transmission of some animation and/or flashing lights 
+	AVATAR Comes to life – eyes open, stand up straight, and activation of orb-of-identity
+	ORB of identity hovers in/near chest and represents
+	<end of test>  - later the Avatar BEHAVIOR will vary depending on combination of Char Chars
+
 
 # Old Summary 2019
 
