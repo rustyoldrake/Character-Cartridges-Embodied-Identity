@@ -7,6 +7,7 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 Jake update  bideo  march  31sat  - Orb tests, switch throw, Regina and John/Jake
 https://youtu.be/IBpVZaGsWrI
 Avatars "animated"  after switch tthrrow (check  out 1:45 'big stretch')
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBpVZaGsWrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Test video Feb 5  - Three Toasters loading - BLue5 Red1 Yellow1
 https://www.youtube.com/watch?v=UzgKLKAutXM
