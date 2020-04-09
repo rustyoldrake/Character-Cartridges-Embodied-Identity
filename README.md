@@ -26,9 +26,7 @@ Pad Thai Data driven avatars
 Bubbleman Avatar
 https://youtu.be/fOfFrGsNwHo
 
-# Story
-
-Character Cartridges and a Martian Prometheus 
+## User Story - Character Cartridges and a Martian Prometheus 
 --
 Isolation often drives inspiration and innovation…
 
@@ -44,7 +42,8 @@ The ship has a VR training simulator for Martian construction tasks.  But with s
 
 The creation process should be fun, and the virtual characters will help provide entertainment – and possibly companionship – on the long voyage ahead…
 
-Virtual Lab Layout
+## Virtual Lab Layout
+
 As you begin to build your virtual lab, you’ve decided a few things:
 
 •	Décor & Design - As a fan of all things 1980’s – you’re making your virtual lab with an 80’s vibe.  VHS video tapes, 80’s fonts and colors, and general 80’s feel. 
@@ -56,7 +55,8 @@ As you begin to build your virtual lab, you’ve decided a few things:
 •	Stimulus- the observation area needs something for interaction.  Could be a ‘thing’, animal, virtual TV playing content, science experiment, or something else that would result in differing responses from variety of characters.
 
  
-VR Character Build Process
+## VR Character Build Process
+
 •	VR User (you!) enter your virtual lab ready to create several Characters and 
 •	You OBSERVE a couple of lifeless avatars, appear to be dormant or sleeping
 •	You see Character Cartridges (color coded) on a table in front of you – RED Cartridges for VALUES; Orang for NEEDS and a selection of blue for personality TRAITS/FACETS.
@@ -67,7 +67,8 @@ VR Character Build Process
 •	You OBSERVE an Orb of identity – which floats o n /near character - which is a representation of your Character’s identity, personality and traits; You also observe the character stretching , like waking from  a long sleep – before stepping off the pedestal , and WALKING (moving) to the “ROOM OF OBSERVATION”
 •	The Pedestal replaces the humanoid with another sleeping, empty version, in case you want to build another.  (maybe with different color clothing article, randomly generated, or random name tag, so you can tell them apart – by Orb and by ID tag/color of clothing) 
 
-Room of Observation – Baseline / Version 1
+## Room of Observation – Baseline / Version 1
+
 •	After creating 1, 2 or a half dozen characters, it’s time to “Observe the Observers” – see how they interact in an environment.
 •	The room of Observation has less of an 80’s vibe compared to the lab – at least initially.  
 •	Maybe we’re in the room with them (invisible observer POV) or looking at them through 1-way mirror.  But we observe them.
@@ -77,10 +78,11 @@ Room of Observation – Baseline / Version 1
 •	EXAMPLE 2 – Content Affinity – Room has four corners – each with artefacts in each one – (i) Play pen full of dogs/puppies/kittens; (ii) Science gear, tools and lab equipment; (iiii) food on table; and (iv) bamboo and rock (quiet area)
 •	LOCATION OF CHARACTERS – As we change characters, we see where they go in room – their inner workings guide their external location 
 
-Room of Observation – Version 2 – Medium Complexity
+## Room of Observation – Version 2 – Medium Complexity
 •	TBD
 •	Consider ‘observe 
 
+-----
 
 
 # Old Summary 2019
