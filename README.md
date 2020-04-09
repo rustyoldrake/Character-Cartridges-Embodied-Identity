@@ -28,17 +28,59 @@ https://youtu.be/fOfFrGsNwHo
 
 # Story
 
-•	STORY
-o	User walks into room.  Observes sign (on green skirt of table?) “AVATAR ANIMATION STUDIO” (Smaller font… 
-	1 Choose Avatar 
-	2 Select Character Cartridges
-	3 Push Animation lever”
-1 User Chooses Avatar – user presses a button or points a switch/asset to the male/female avatar – when the button/switch is turned (maybe from a third neutral position) – there is some visual indication of selection (glow? Light?)
-2 User selects Color cartridges to put in toasters (much later, could consider speech to text to summon/surface or highlight most relevant cartridges for ABC personality / attribute family)
-3 – User Pushes Animation Lever, light show, transmission of some animation and/or flashing lights 
-	AVATAR Comes to life – eyes open, stand up straight, and activation of orb-of-identity
-	ORB of identity hovers in/near chest and represents
-	<end of test>  - later the Avatar BEHAVIOR will vary depending on combination of Char Chars
+Character Cartridges and a Martian Prometheus 
+--
+Isolation often drives inspiration and innovation…
+
+Isaac Newton and William Shakespeare, isolated by European plagues, created marvelous works of science and literature.  
+
+Mary Shelley in the volcanic winter of 1816, took refuge with Lord Byron by Lake Geneva in Switzerland.  She produced the story of Victor Frankenstein, inspired by Prometheus, a Titan who created humanity by blending clay with stolen god-fire.
+
+Which brings us to YOU!
+
+You are a Martian Astronaut, on a resupply spaceship headed to Mars.  Your 23 crew mates are in a deep sleep for the next 6 months.   Your daily jobs of checking in on the ship and crew health, take just a small portion of your time.  Communications with earth sucks (given the 10-minute delay) and watching movies and playing video games got a stale after 2 months… so time for a little inspiration and innovation – Prometheus style! 
+
+The ship has a VR training simulator for Martian construction tasks.  But with some tinkering, you’ve figured out how to build a VR lab to compose virtual characters.
+
+The creation process should be fun, and the virtual characters will help provide entertainment – and possibly companionship – on the long voyage ahead…
+
+Virtual Lab Layout
+As you begin to build your virtual lab, you’ve decided a few things:
+
+•	Décor & Design - As a fan of all things 1980’s – you’re making your virtual lab with an 80’s vibe.  VHS video tapes, 80’s fonts and colors, and general 80’s feel. 
+•	These Characters will not talk, at least initially.  But they will move, see and ‘feel’ – and you will be able to observe the characters in action. 
+•	Character “Cartridges” will be used as building blocks for identity and personality
+•	Types of cartridges initially will include simple things like “values” and “needs” and personality facets (like assertiveness) – but latter will explore compositions
+•	About 50 cartridges will  be available initially -  but option to unlock (from special glass case) hundreds more, as the user  interface evolves. 
+•	Observation Area - for early testing, you want to be able to make a bunch of characters (e.g. 2-12) put them in an area – see how different characters behave
+•	Stimulus- the observation area needs something for interaction.  Could be a ‘thing’, animal, virtual TV playing content, science experiment, or something else that would result in differing responses from variety of characters.
+
+ 
+VR Character Build Process
+•	VR User (you!) enter your virtual lab ready to create several Characters and 
+•	You OBSERVE a couple of lifeless avatars, appear to be dormant or sleeping
+•	You see Character Cartridges (color coded) on a table in front of you – RED Cartridges for VALUES; Orang for NEEDS and a selection of blue for personality TRAITS/FACETS.
+•	You DECIDE which one you want to ANIMATE, by pointing the switch (or pushing a button) to select character in focus.
+•	You GRAB the cartridges you want, for each character, and put them in the correct color coded TOASTER / receptacle.    
+•	After you fill up all the slots, you THROW THE BIG LEVER – animating and bringing to life your Character
+•	When you push Pushes Animation Lever, FLASH! light show, transmission of some animation and/or flashing lights AVATAR Comes to life – eyes open, stand up straight, and activation of orb-of-identity ORB of identity hovers in/near chest and represents - later the Avatar BEHAVIOR will vary depending on combination of Char Chars
+•	You OBSERVE an Orb of identity – which floats o n /near character - which is a representation of your Character’s identity, personality and traits; You also observe the character stretching , like waking from  a long sleep – before stepping off the pedestal , and WALKING (moving) to the “ROOM OF OBSERVATION”
+•	The Pedestal replaces the humanoid with another sleeping, empty version, in case you want to build another.  (maybe with different color clothing article, randomly generated, or random name tag, so you can tell them apart – by Orb and by ID tag/color of clothing) 
+
+Room of Observation – Baseline / Version 1
+•	After creating 1, 2 or a half dozen characters, it’s time to “Observe the Observers” – see how they interact in an environment.
+•	The room of Observation has less of an 80’s vibe compared to the lab – at least initially.  
+•	Maybe we’re in the room with them (invisible observer POV) or looking at them through 1-way mirror.  But we observe them.
+•	STIMULUS – in addition to each other, the room has at least one “thing” that has meaning for the Characters – and can stimulate changes in (a) Cognitive Emotional State; (b) Physical location in the room.  (the former drives the latter)
+•	Interpersonal – initially – the characters don’t really interact with each other, but later on, they might – like in a sense of Hierarchy. 
+•	EXAMPLE 1 – Fear / Curiosity – Room has table at one end – on the table are three items, a knife, a lit candle (fire), and an box with “open me” on side.  Cautious and incurious characters will stand at the far side of the room (fear trumps curiosity); Curious and assertive, souls will move towards the Table.  (near term , it’s simply a stand where you are most comfortable equation)
+•	EXAMPLE 2 – Content Affinity – Room has four corners – each with artefacts in each one – (i) Play pen full of dogs/puppies/kittens; (ii) Science gear, tools and lab equipment; (iiii) food on table; and (iv) bamboo and rock (quiet area)
+•	LOCATION OF CHARACTERS – As we change characters, we see where they go in room – their inner workings guide their external location 
+
+Room of Observation – Version 2 – Medium Complexity
+•	TBD
+•	Consider ‘observe 
+
 
 
 # Old Summary 2019
