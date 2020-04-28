@@ -4,6 +4,10 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 
 # New links
 
+Jake update video - APril 28
+https://www.youtube.com/watch?v=0VyLE_fG_7o&feature=youtu.be
+Explosions and also first cut of the room of observation / monitoring room
+
 Jake update  bideo  march  31sat  - Orb tests, switch throw, Regina and John/Jake
 https://youtu.be/IBpVZaGsWrI
 Avatars "animated"  after switch tthrrow (check  out 1:45 'big stretch')
