@@ -4,6 +4,11 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 
 # New links
 
+May 8  2020
+https://openai.com/blog/emergent-tool-use/
+In terms of observing autonomous or semi autonomous agents, Our character cartridge infused agents could be observed in a similar environment but instead of hide and seek for goal seeking there’s something more around curiosity or stress or cortisol  (thanks for reminder lucy)_
+
+
 Jake update video - APril 28
 https://www.youtube.com/watch?v=0VyLE_fG_7o&feature=youtu.be
 Explosions and also first cut of the room of observation / monitoring room
