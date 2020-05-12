@@ -4,6 +4,11 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 
 # New links
 
+may 12th release!
+Announcing ML-Agents Unity Package v1.0!ML-Agents is an open-source project that enables games and simulations to serve as environments for training intelligent agents. It includes a C# SDK to set up a scene and define the agents within it, and a state-of-the-art machine learning library to train agents for 2D, 3D, and VR/AR environments
+https://blogs.unity3d.com/2020/05/12/announcing-ml-agents-unity-package-v1-0/
+
+
 May 8  2020
 https://openai.com/blog/emergent-tool-use/
 In terms of observing autonomous or semi autonomous agents, Our character cartridge infused agents could be observed in a similar environment but instead of hide and seek for goal seeking there’s something more around curiosity or stress or cortisol  (thanks for reminder lucy)_
