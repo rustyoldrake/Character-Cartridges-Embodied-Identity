@@ -7,7 +7,7 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 May 17 from B
 "The sensibleness of a chatbot is the fraction of responses labeled “sensible”, and specificity is the fraction of responses that are marked “specific”. The average of these two is the SSA score. The results below demonstrate that Meena does much better than existing state-of-the-art chatbots by large margins in terms of SSA scores, and is closing the gap with human performance. "
 https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html
-
+and https://arxiv.org/pdf/2001.09977.pdf  
 
 may 12th release!
 Announcing ML-Agents Unity Package v1.0!ML-Agents is an open-source project that enables games and simulations to serve as environments for training intelligent agents. It includes a C# SDK to set up a scene and define the agents within it, and a state-of-the-art machine learning library to train agents for 2D, 3D, and VR/AR environments
