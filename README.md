@@ -3,6 +3,10 @@ POC for Sensemaking Systems with Emotional &amp; Anthropomorphic Traits - and sy
 
 
 # New links
+May 17th
+Towards a Conscious AI: A Computer Architecture Inspired by Neuroscience 
+ https://eecs.berkeley.edu/turing-colloquium/schedule/blum 
+
 
 May 17 from B
 "The sensibleness of a chatbot is the fraction of responses labeled “sensible”, and specificity is the fraction of responses that are marked “specific”. The average of these two is the SSA score. The results below demonstrate that Meena does much better than existing state-of-the-art chatbots by large margins in terms of SSA scores, and is closing the gap with human performance. "
